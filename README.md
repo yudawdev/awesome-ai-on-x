@@ -1,7 +1,7 @@
 # 🚀 Recommended AI Accounts to Follow on X (Crowdsourced & Curated)
 Curated list of high-quality AI researchers, practitioners, and educators on X (formerly Twitter), crowdsourced from community recommendations.
 
-[中文版 / Chinese Version](README.md)
+[中文版 / Chinese Version](README_ZH.md)
 
 🔥 **Selection Criteria**: Practical > Fame, Consistent Output > Rare Posts, Mix of Chinese & English content.  
 📅 Data fetched as of January 2026.  
